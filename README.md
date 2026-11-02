@@ -46,9 +46,6 @@ El proyecto combina metodologías de investigación, fuentes de inteligencia abi
 | Ransomware Intelligence | Seguimiento y análisis de campañas de ransomware |
 | OSINT | Recopilación y correlación de información de fuentes abiertas |
 
-
-```
-
 ## Herramientas y fuentes de inteligencia
 
 Este laboratorio utiliza o contempla herramientas y fuentes de referencia para la investigación y el análisis de amenazas:
@@ -124,10 +121,5 @@ La información y los indicadores publicados se utilizarán con fines de investi
 
 Las investigaciones deberán respetar la legislación vigente, la privacidad y las condiciones de uso de las fuentes consultadas.
 
----
 
-<p align="center">
-  <strong>LABORATORIO DE INTELIGENCIA DE AMENAZAS</strong>
-  <br>
-  Investigación continua · Aprendizaje · Ciberseguridad defensiva
-</p>
+
