@@ -46,47 +46,7 @@ El proyecto combina metodologías de investigación, fuentes de inteligencia abi
 | Ransomware Intelligence | Seguimiento y análisis de campañas de ransomware |
 | OSINT | Recopilación y correlación de información de fuentes abiertas |
 
-## Estructura del repositorio
 
-```text
-inteligencia-de-amenazas/
-│
-├── README.md
-│
-├── assets/
-│   ├── portada-cti.png
-│   └── logo-cti.png
-│
-├── fundamentos-cti/
-│
-├── actores-de-amenazas/
-│   ├── grupos-apt/
-│   └── perfiles-de-actores/
-│
-├── analisis-de-amenazas/
-│   ├── campanas-maliciosas/
-│   ├── malware/
-│   └── ransomware/
-│
-├── mitre-attack/
-│   ├── tacticas-y-tecnicas/
-│   └── mapeo-attack/
-│
-├── indicadores-compromiso/
-│   └── ejemplos-ioc/
-│
-├── fuentes-de-inteligencia/
-│
-├── informes/
-│   ├── estrategicos/
-│   ├── tacticos/
-│   └── tecnicos/
-│
-├── metodologia/
-│
-├── plantillas/
-│
-└── recursos/
 ```
 
 ## Herramientas y fuentes de inteligencia
